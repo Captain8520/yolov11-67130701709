@@ -1,4 +1,4 @@
 opencv-python
-ultralytics
+ultralytics==8.3.74
 streamlit
 numpy
